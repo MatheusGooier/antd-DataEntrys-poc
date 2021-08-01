@@ -1,23 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import DataEntrys from "./components/DataEntrys";
+import Poc from "./components/Poc";
 
+console.log("Atividade de Reposição da 2ª Aula Interativa");
+console.log("Matheus Alexandre de Souza");
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        Proof Of Concept de AntD - Matheus Cometti
       </header>
+      <body className="Body">
+        <Poc></Poc>
+        <DataEntrys></DataEntrys>
+      </body>
     </div>
   );
 }

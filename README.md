@@ -2,6 +2,9 @@
 
 Neste projeto selecionei alguns componentes interessantes de entrada de dados para exemplificar como podemos ganhar tempo na criação de formularios utilizando o sistema de design Ant Design
 
+Curso: IGTI - AJS211A
+Aluno: Matheus Alexandre de Souza Cometti
+
 ### `npm start`
 
 Runs the app in the development mode.\
